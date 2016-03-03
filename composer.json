@@ -1,0 +1,16 @@
+{
+    "name": "twesolowski/DirectAdminApi",
+    "type": "library",
+    "description": "",
+    "homepage": "http://ulrichsg.github.io/getopt-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arian Stolwijk",
+            "email": "stolwijk.arian@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
